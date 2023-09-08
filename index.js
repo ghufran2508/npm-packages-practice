@@ -1,5 +1,5 @@
-const search = (context, name) => {
+function search (context, name) {
     return `Company: ${context}, Name: ${name}`
 }
 
-module.export = search
+module.exports = {search}
