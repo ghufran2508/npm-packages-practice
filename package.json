@@ -7,8 +7,5 @@
     "test": "exit 0"
   },
   "author": "",
-  "license": "ISC",
-  "publishConfig": {
-    "@ghufran2508:registry": "https://npm.pkg.github.com"
-  }
+  "license": "ISC"
 }
